@@ -3,3 +3,4 @@ Git is a free tool
 Git is so easy
 Git tracks changes of files second
 Git tracks test
+Git unstaged
