@@ -4,3 +4,5 @@ Git is so easy
 Git tracks changes of files second
 Git tracks test
 Git unstaged
+Git diff
+Git unstaged
